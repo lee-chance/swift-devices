@@ -1,0 +1,125 @@
+[
+  {
+    "Generation": "Apple TV (1st generation)",
+    "ANumber": "A1218",
+    "Bootrom": "None",
+    "Identifier": "AppleTV1,1",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "40 GB",
+        "Model": [ "MA711" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "160 GB",
+        "Model": [ "MB189" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple TV (2nd generation)",
+    "ANumber": "A1378",
+    "Bootrom": "Bootrom 574.4",
+    "FCCID": "BCGA1378",
+    "InternalName": "K66AP",
+    "Identifier": "AppleTV2,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "8 GB",
+        "Model": [ "MC572" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple TV (3rd generation)",
+    "ANumber": "A1427",
+    "Bootrom": "ROM",
+    "FCCID": "BCGA1427",
+    "InternalName": "J33AP",
+    "Identifier": "AppleTV3,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "8 GB",
+        "Model": [ "MD199" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple TV (3rd generation)",
+    "ANumber": "A1469",
+    "Bootrom": "Bootrom 1458.2",
+    "FCCID": "BCGA1469",
+    "InternalName": "J33IAP",
+    "Identifier": "AppleTV3,2",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "8 GB",
+        "Model": [ "MD199" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple TV (4th generation)",
+    "ANumber": "A1625",
+    "Bootrom": "Bootrom 1992.0.0.1.19",
+    "FCCID": "BCGA1625",
+    "InternalName": "J42dAP",
+    "Identifier": "AppleTV5,3",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "32 GB",
+        "Model": [ "MGY52", "ML4W2", "MR912" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MLNC2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple TV 4K",
+    "ANumber": "A1842",
+    "Bootrom": "Bootrom 3135.0.0.2.3",
+    "FCCID": "BCGA1842",
+    "InternalName": "J105aAP",
+    "Identifier": "AppleTV6,2",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "32 GB",
+        "Model": [ "MQD22" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MP7P2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple TV 4K (2nd generation)",
+    "ANumber": "A2169",
+    "Bootrom": "Bootrom 3865.0.0.4.7",
+    "FCCID": "BCGA2169",
+    "InternalName": "J305AP",
+    "Identifier": "AppleTV11,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "32 GB",
+        "Model": [ "MXGY2" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MXH02" ]
+      }
+    ]
+  }
+]

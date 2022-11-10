@@ -1,0 +1,56 @@
+[
+  {
+    "Generation": "HomePod",
+    "ANumber": "A1639",
+    "Bootrom": "Bootrom 1992.0.0.1.19",
+    "FCCID": "BCG-A1639",
+    "InternalName": "B238aAP",
+    "Identifier": "AudioAccessory1,1",
+    "Models": [
+      {
+        "Color": "Space Gray",
+        "Model": [ "MQHW2" ]
+      },
+      {
+        "Color": "White",
+        "Model": [ "MQHV2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "HomePod",
+    "ANumber": "Unknown",
+    "Bootrom": "Bootrom 1992.0.0.1.19",
+    "FCCID": "Unknown",
+    "InternalName": "B238AP",
+    "Identifier": "AudioAccessory1,2",
+    "Models": [
+      {
+        "Color": "Space Gray",
+        "Model": [ ]
+      },
+      {
+        "Color": "White",
+        "Model": [ ]
+      }
+    ]
+  },
+  {
+    "Generation": "HomePod mini",
+    "ANumber": "A2374",
+    "Bootrom": "Bootrom 3988.0.0.2.12",
+    "FCCID": "BCG-A2374",
+    "InternalName": "B520AP",
+    "Identifier": "AudioAccessory5,1",
+    "Models": [
+      {
+        "Color": "Space Gray",
+        "Model": [ "MY5G2" ]
+      },
+      {
+        "Color": "White",
+        "Model": [ "MY5H2" ]
+      }
+    ]
+  }
+]
