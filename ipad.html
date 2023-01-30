@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>swift-devices</title>
+
+    <script>
+        fetch("data/ipad.json")
+            .then(response => response.json())
+            .then(datas => {
+                let list = document.getElementById("list")
+
+                for(var i in datas) {
+                    let li = document.createElement("li")
+                    li.appendChild(document.createTextNode(datas[i].Generation))
+
+                    list.appendChild(li)
+                }
+            })
+    </script>
+  </head>
+
+  <body>
+    <h1>iPad</h1>
+
+    <ul id="list"></ul>
+  </body>
+</html>
